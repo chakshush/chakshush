@@ -1,6 +1,6 @@
-### Hello there, I'm Chakshush - [website]
+### Hello there, I'm Chakshush
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://chakshush.netlify.app)
+[![Website](https://img.shields.io/website?label=Chakshush&style=for-the-badge&url=https%3A%2F%2Fchakshush.netlify.app)](https://chakshush.netlify.app)
 
 ## I'm a Computer Science Student
 

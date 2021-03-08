@@ -11,7 +11,7 @@
 
 ### Spotify Playing
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31roudvlmnulu3xgt6mj5i4rqrgy)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Chakshush playlist" width="350" />](https://open.spotify.com/user/31roudvlmnulu3xgt6mj5i4rqrgy)
 
 ### Connect with me:
 
@@ -41,12 +41,8 @@
 
 ---
 
-<details>
   <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="Chakshush's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=chakshush&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: chakshush.netlify.app
 [twitter]: https://twitter.com/Chakshush2307

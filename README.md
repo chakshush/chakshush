@@ -22,7 +22,7 @@
 
 <br />
 
-[![@chakshu's Holopin board](https://holopin.io/api/user/board?user=sesku)](https://holopin.io/@sesku)
+[![@sesku's Holopin board](https://holopin.io/api/user/board?user=sesku)](https://holopin.io/@sesku)
 
 
 ### Languages and Tools:

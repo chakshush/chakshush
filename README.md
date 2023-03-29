@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=Chakshush&style=for-the-badge&url=https%3A%2F%2Fchakshush.netlify.app)](https://chakshush.netlify.app)
 
-## I'm a Computer Science Student
+## I'm a Functional IT Manager
 
 - I’m currently learning New Skills
 - I’m looking to collaborate with other content creators
